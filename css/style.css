@@ -1,0 +1,464 @@
+html{
+	min-width: 1280px;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+.navbar{
+  border-top: 10px solid #e81921;
+}
+
+li.active > a{
+	background: #e81921 !important;
+}
+
+.ballina{
+	margin-left: 0 !important;
+}
+
+
+.linqet{
+	display: inline !important;
+	text-align: center;
+	color: #e81921;
+}
+
+.lart{
+	margin-top: 15px;
+}
+
+a.linqet{
+	color: #e81921 !important;
+}
+
+.teksti{
+	color: #fff;
+}
+
+ .onufri{
+ 	margin-top: 90px;
+ }
+
+ .zhanret{
+ 	height: 60px;
+ 	background: #ccc;
+ 	display: block;
+ 	margin-top: 20px;
+ 	overflow: hidden !important;
+ }
+
+ .zhanreti{
+ 	line-height: 60px;
+ 	display: inline;
+ 	list-style: none;
+ 	vertical-align: center;
+ }
+
+ a.zhanreto{
+ 	text-decoration: none;
+ 	color: #000;
+ 	cursor: pointer;
+ }
+
+ .mes{
+ 	width: 1200px;
+ 	margin: 0 auto;
+ }
+
+ .librari{
+ 	margin: 150px 400px 0 100px;
+ }
+
+ .shelf{
+ 	position: relative;
+ 	left: 500px;
+ 	bottom: 250px;
+ 	
+ }
+
+ .botimet{
+ 	margin-right: 200px;
+ }
+
+ .siege{
+ 	position:relative;
+ 	left:18px;
+ 	bottom:450px;
+ }
+
+ .koreshi{
+ 	position:relative;
+ 	left:48px;
+ 	bottom:450px;
+ }
+
+ .kadare{
+ 	position:relative;
+ 	left:81px;
+ 	bottom:450px;
+ }
+
+ .kadare2{
+ 	position:relative;
+ 	right:333px;
+ 	bottom:225px;
+ }
+
+ .camaj{
+ 	position:relative;
+ 	right:311px;
+ 	bottom:225px;
+ }
+
+ .ererat{
+ 	position:relative;
+ 	left:908px;
+ 	bottom:443px;
+ }
+
+
+ .oferte{
+ 	border-bottom: 1px solid #000;
+ 	position: relative;
+ 	bottom: 180px;
+ 	margin: -144px 50px;
+ }
+
+ .ofertat{
+ 	color: #000;
+ 	display:inline-block;
+    height:100%;
+    text-decoration: none;
+    border-bottom: 2px solid #e81921;
+    z-index: 999;
+ }
+
+.container-mes{
+	margin: 0;
+	padding: 0 60px;
+}
+
+
+.librat-in{
+	height: 307px;
+	padding: 20px;
+}
+
+.border{
+	padding-top: 20px;
+	height: 100%;
+	border: 1px solid #ccc;
+}
+
+ .trekendesh{
+ 	height: 100px;
+ 	position: absolute;
+ 	top: 0px;
+ }
+
+ .desc{
+ 	position: relative;
+ 	display: inline;
+ }
+
+ .cmimi{
+ 	position: relative;
+ 	font-size: 20px;
+ 	line-height: 10px;
+    top: 5px;
+ }
+
+ .perzgjedhur{
+ 	margin: 33px 0 0 -14px;
+ 	border-bottom: 1px solid #000;
+ 	width: 100%;
+ }
+
+ .perzgj{
+ 	display: inline-block;
+ 	height: 100%;
+ 	color: #000;
+ 	border-bottom: 2px solid #e81921;
+ 	z-index: 999;
+
+ }
+
+ .poshte{
+ 	position: absolute;
+ 	bottom: 0;
+ 	margin-bottom: 10px;
+ }
+
+ .post{
+ 	height: 350px;
+ 	padding: 10px;
+ 	border: 1px solid #ccc;
+ }
+
+.autori{
+	display: block;
+	height: 200px;
+	margin-top: 544px;
+	margin-bottom: 0;
+	margin-left: -82px;
+}
+
+ .kadare{
+ 	padding: 0 20px;
+ 	border-top: 3px solid #e81921;
+ 	border-bottom: 2px solid #e81921;
+ }
+
+ .circle{
+ 	height: 100px;
+ 	width: 100px;
+ 	border-radius: 50%;
+ 	background: #e81921;
+ 	position: relative;
+ 	left: 130px;
+ 	top: -398px;
+ }
+
+ .avatarkadare{
+ 	height: 80px;
+ 	width: 80px;
+ 	position: relative;
+ 	z-index: 999;
+ 	left: 10px;
+ 	top: 10px;
+ }
+
+ .ismail{
+ 	font-size: 18px;
+ 	color: #e81921;
+ 	margin-bottom: 10px;
+ }
+
+ .nata{
+ 	height: 245px;
+ 	background: #f3f4f6;
+ 	padding: 20px 30px;
+ }
+
+ .shitur{
+ 	width: 30%;
+ 	position: relative;
+ 	height: 339px;
+ 	top: -540px;
+ 	left: 97px;
+ }
+
+ .libri{
+ 	height: 50%;
+ 	background-color: #f3f4f6;
+ 	position: relative;
+ 	left: -13px;
+ 	padding: 20px;
+ }
+
+ .info{
+ 	height: 23%;
+ 	background-color: #e81921;
+ 	position: relative;
+ 	left: -13px;
+ 	padding: 17px 10px;
+ }
+
+ .left{
+ 	background:url(../img/left.png) no-repeat center center;
+ 	height: 134px;
+ }
+
+.agron{
+ 	background:url(../img/agron.png) no-repeat center center;
+ 	height: 134px;
+ }
+
+ .right{
+ 	background:url(../img/right.png) no-repeat center center;
+ 	height: 134px;
+ }
+
+ .titulli{
+ 	color: #fff;
+ 	font-weight: bold;
+ }
+
+ .dyte{
+ 	display: block;
+ 	padding: 50px 40px;
+ }
+
+ .rejat{
+ 	height: 100px;
+ 	border-bottom: 1px solid #000;
+ 	position: relative;
+ 	top: -252px;
+ }
+
+.terejat{
+	position: relative;
+	bottom: 121px;
+	font-size: 20px;
+}
+
+.buttons{
+	position: relative;
+	bottom: 133px;
+	left: 933px;
+}
+
+.blogu{
+	position: relative;
+	bottom: 287px;
+	left: 0;
+}
+
+.buletin{
+	background-color: #f3f4f6;
+	height: 300px;
+	width: 100%;
+	position: relative;
+	bottom: 200px;
+	left: 15px;
+	overflow: hidden;
+}
+
+.bulletini{
+	font-size: 14px;
+	font-family: "Calibri";
+	margin-top: 20px;
+}
+
+.postet{
+	padding: 50px 30px;
+}
+
+.email{
+	position: relative;
+	right: 132px;
+	bottom: 25px;
+	width: 200% !important;
+}
+
+.regjistrohu{
+	position: relative;
+	left: 30px;
+	bottom: 14px;
+}
+
+#resolution{
+     width: 1280px;
+     margin: 0 auto;
+}
+
+ .adresimi{
+ 	color: red;
+ 	margin: 0;
+ 	font-size: 14px;
+	font-family: "Calibri";
+	
+ }
+
+ .orar{
+ 	margin: 0;
+ 	font-size: 14px;
+	font-family: "Calibri";
+	
+ }
+
+ .shiturit{
+ 	background-color: #393939;
+ 	height: 390px;
+ 	position: relative;
+ 	bottom: 200px;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ .fjalet{
+ 	color: white;
+ 	position: relative;
+ 	bottom:0; 	
+}
+
+.titulli2{
+	display: inline;
+	color: #fff;
+	font-family: "Calibri";
+	font-size: 14px;
+}
+
+.autori2{
+	display:block;
+	color: #000;
+}
+
+.leke{
+	display: inline-block;
+	margin-top: 22px;
+	color: #000;
+}
+
+.pershkrimi{
+	display: inline;
+	font-family: "Calibri";
+	font-size: 14px;
+	position: relative;
+	bottom: 11px;
+	color: #fff;
+}
+
+.komente{
+	color: #958c7c;
+	display: inline-block;
+	position: relative;
+	bottom: 21px;
+	left: 41px;
+}
+
+.posti{
+	margin-top: 20px;
+}
+
+.icons{
+	margin-right: 20px;
+	margin-top: 50px;
+}
+
+i{
+	padding-right: 10px;
+}
+
+.white{
+	color: #fff;
+	font-family: "Calibri";
+}
+
+.green{
+	color: #2cb679;
+}
+
+footer{
+	text-align: center;
+	padding: 20px;
+	background-color: #292929;
+	position: relative;
+	bottom: 200px;
+	overflow: hidden;
+}
+
+@media(max-width: 992px){
+
+	.librat-in{
+		margin-top: 20px;
+	}
+}
+
+@media(max-width: 1200px){
+	body{
+		overflow-x: scroll;
+	}
+}
